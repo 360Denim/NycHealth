@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10" height="5.873" viewBox="0 0 10 5.873">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="vectorMask" d="M1196.85,2119.511l-.361-.361a.511.511,0,0,0-.723,0l-3.766,3.766-3.765-3.766a.511.511,0,0,0-.723,0l-.362.361a.512.512,0,0,0,0,.723l4.489,4.489a.511.511,0,0,0,.723,0l4.488-4.489A.51.51,0,0,0,1196.85,2119.511Z" transform="translate(-1187 -2119)" fill="#2e384d"/>
+    </clipPath>
+  </defs>
+  <g id="down_arrow_icon" clip-path="url(#clip-path)">
+    <g id="Mask_by_Caret" data-name="Mask by Caret" transform="translate(-3 -5)">
+      <g id="Base_Color_White" data-name="Base/Color/White">
+        <rect id="Base_Color_Blue" data-name="Base/Color/Blue" width="16" height="16" transform="translate(0)" fill="#2e384d"/>
+      </g>
+    </g>
+  </g>
+</svg>

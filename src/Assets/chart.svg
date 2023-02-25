@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="222" height="222" viewBox="0 0 222 222">
+  <defs>
+    <filter id="Ellipse_5" x="0" y="0" width="222" height="222" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="chart" transform="translate(14.5 14.566)">
+    <g transform="matrix(1, 0, 0, 1, -14.5, -14.57)" filter="url(#Ellipse_5)">
+      <circle id="Ellipse_5-2" data-name="Ellipse 5" cx="96" cy="96" r="96" transform="translate(15 15)" fill="#fff"/>
+    </g>
+    <g id="Ring_Chart3" data-name="Ring Chart3" transform="translate(13.241 13.263)">
+      <path id="Path_996" data-name="Path 996" d="M11.908-62.5A82.759,82.759,0,1,1-36.737,87.212L-21.17,65.787a56.276,56.276,0,1,0,33.078-101.8Z" transform="translate(70.851 62.5)" fill="#1e478e"/>
+      <path id="Path_997" data-name="Path 997" d="M-28.386,83.343a82.759,82.759,0,0,1,0-133.906L-12.82-29.139a56.276,56.276,0,0,0,0,91.056Z" transform="translate(62.5 66.369)" fill="#0fa368"/>
+      <path id="Path_998" data-name="Path 998" d="M-36.737-46.695A82.759,82.759,0,0,1,11.908-62.5v26.483A56.276,56.276,0,0,0-21.17-25.27Z" transform="translate(70.851 62.5)" fill="#4598cb"/>
+    </g>
+  </g>
+</svg>
